@@ -20,8 +20,9 @@ raw data to a decision someone can act on.
 | [Student demographics dbt pipeline](https://github.com/bader28-lab/student-demographics-dbt-pipeline) | Layered dbt models, 17 data quality tests, GDPR safeguards, INSEE enrichment | dbt, SQL, Snowflake, DuckDB |
 | [Music streaming trends & forecasting](https://github.com/bader28-lab/music-streaming-trends-forecasting) | What makes a track popular, and where pop is heading | Python, statistics, Prophet |
 | [Global undernutrition: FAO data study](https://github.com/bader28-lab/global-undernutrition-fao-analysis) | Multi source data cleaning, a map bug found and fixed, K-means typology of countries | Python, pandas, scikit-learn |
+| [Home insurance portfolio in SQL](https://github.com/bader28-lab/home-insurance-sql-analysis) | Database design with enforced keys, data quality checks that recover lost contracts, window functions | SQL, SQLite, Python |
 
-*More projects being published: Power BI dashboards, SQL database design, e-commerce sales analysis.*
+*More projects being published: Power BI dashboards, SQL database design.*
 
 ## Contact
 
