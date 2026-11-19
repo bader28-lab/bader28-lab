@@ -21,8 +21,9 @@ raw data to a decision someone can act on.
 | [Music streaming trends & forecasting](https://github.com/bader28-lab/music-streaming-trends-forecasting) | What makes a track popular, and where pop is heading | Python, statistics, Prophet |
 | [Global undernutrition: FAO data study](https://github.com/bader28-lab/global-undernutrition-fao-analysis) | Multi source data cleaning, a map bug found and fixed, K-means typology of countries | Python, pandas, scikit-learn |
 | [Home insurance portfolio in SQL](https://github.com/bader28-lab/home-insurance-sql-analysis) | Database design with enforced keys, data quality checks that recover lost contracts, window functions | SQL, SQLite, Python |
+| [Project portfolio dashboard](https://github.com/bader28-lab/project-portfolio-powerbi-dashboard) | Power BI report for three levels of directors, alert rule in DAX, row level security | Power BI, DAX, Power Query |
 
-*More projects being published: Power BI dashboards, SQL database design.*
+*More projects being published: SQL database design.*
 
 ## Contact
 
